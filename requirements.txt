@@ -24,7 +24,6 @@ click-repl==0.3.0
 cryptography==45.0.5
 distro==1.9.0
 dnspython==2.7.0
-dotenv==0.9.9
 email_validator==2.2.0
 fastapi==0.116.0
 fastapi-users==14.0.1
